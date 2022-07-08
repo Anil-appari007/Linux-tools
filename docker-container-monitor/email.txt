@@ -1,0 +1,4 @@
+From: Docker-Monitoring <******@outlook.com>
+Subject: Test-Mail 
+
+Container is not running.

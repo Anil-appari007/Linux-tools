@@ -1,0 +1,12 @@
+Containers to check  alp db
+Time Frequency is  30 seconds
+Check at 2022_Jun_17_16hr_07min_10sec
+[1;31m Container alp is not running [0m
+[1;31m Container db is not running [0m
+Check at 2022_Jun_17_16hr_08min_08sec
+[1;31m Container alp is not running [0m
+Containers to check  alp db
+Time Frequency is  30 seconds
+Check at 2022_Jun_17_16hr_09min_46sec
+[1;31m Container alp is not running [0m
+[1;31m Container db is not running [0m

@@ -1,0 +1,28 @@
+container_names="alp db"
+
+#output_log="/var/log/containermonitoring.log"
+output_log="local-log.txt"
+
+
+### Time-period to check in seconds
+check_frequency=30
+
+#### TRUE/FALSE
+send_alerts="TRUE"
+send_alerts_in_teams="TRUE"
+send_alerts_in_mail="TRUE"
+
+
+
+#############   Teams-Channel-Webhook
+webhook=""
+
+
+
+##############  SMTP
+smtp_server_name="smtp.office365.com"
+smtp_server_port=587
+smtp_username="******@outlook.com"
+smtp_pwd="*******"
+# recipient_mail_id="anil****@gmail.com"
+recipient_mail_id="anil1@gmail.com anil2@outlook.com"
