@@ -1,0 +1,7 @@
+-----------------------------------------------
+started at Thu Jul  7 22:00:01 IST 2022 . Below line is Purge Output
+count ---------- 16592775 (1 row) DELETE 125 count ---------- 16592650 (1 row)
+Records before purging:          16592775
+Records after purging:           16592650
+No.of Records deleted:           125
+completed at  Thu Jul  7 22:00:07 IST 2022
