@@ -1,0 +1,6 @@
+azure setup
+https://techcommunity.microsoft.com/t5/azure-paas-blog/using-service-principal-with-azcopy-amp-azure-cli-to-manage/ba-p/2172474
+
+postgres backups
+https://www.postgresql.org/docs/current/backup.html
+https://www.postgresql.org/docs/current/backup-dump.html
